@@ -1,2 +1,1 @@
-# prepcoursehenry
-este es un repositorio de prueba modulo 2
+Este es una prueba de como crear un repositorio y clonar desde github a la computadora  
